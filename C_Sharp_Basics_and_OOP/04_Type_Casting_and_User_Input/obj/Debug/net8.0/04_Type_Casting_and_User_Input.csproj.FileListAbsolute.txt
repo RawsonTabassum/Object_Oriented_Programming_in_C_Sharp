@@ -1,0 +1,15 @@
+D:\C Sharp\C_Sharp_Basics_and_OOP\04_Type_Casting_and_User_Input\bin\Debug\net8.0\04_Type_Casting_and_User_Input.exe
+D:\C Sharp\C_Sharp_Basics_and_OOP\04_Type_Casting_and_User_Input\bin\Debug\net8.0\04_Type_Casting_and_User_Input.deps.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\04_Type_Casting_and_User_Input\bin\Debug\net8.0\04_Type_Casting_and_User_Input.runtimeconfig.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\04_Type_Casting_and_User_Input\bin\Debug\net8.0\04_Type_Casting_and_User_Input.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\04_Type_Casting_and_User_Input\bin\Debug\net8.0\04_Type_Casting_and_User_Input.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\04_Type_Casting_and_User_Input\obj\Debug\net8.0\04_Type_Casting_and_User_Input.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\C_Sharp_Basics_and_OOP\04_Type_Casting_and_User_Input\obj\Debug\net8.0\04_Type_Casting_and_User_Input.AssemblyInfoInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\04_Type_Casting_and_User_Input\obj\Debug\net8.0\04_Type_Casting_and_User_Input.AssemblyInfo.cs
+D:\C Sharp\C_Sharp_Basics_and_OOP\04_Type_Casting_and_User_Input\obj\Debug\net8.0\04_Type_Casting_and_User_Input.csproj.CoreCompileInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\04_Type_Casting_and_User_Input\obj\Debug\net8.0\04_Type_Casting_and_User_Input.sourcelink.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\04_Type_Casting_and_User_Input\obj\Debug\net8.0\04_Type_Casting_and_User_Input.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\04_Type_Casting_and_User_Input\obj\Debug\net8.0\refint\04_Type_Casting_and_User_Input.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\04_Type_Casting_and_User_Input\obj\Debug\net8.0\04_Type_Casting_and_User_Input.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\04_Type_Casting_and_User_Input\obj\Debug\net8.0\04_Type_Casting_and_User_Input.genruntimeconfig.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\04_Type_Casting_and_User_Input\obj\Debug\net8.0\ref\04_Type_Casting_and_User_Input.dll
