@@ -1,0 +1,15 @@
+D:\C Sharp\C_Sharp_Basics_and_OOP\05_Arithmetic_Operators\bin\Debug\net8.0\05_Arithmetic_Operators.exe
+D:\C Sharp\C_Sharp_Basics_and_OOP\05_Arithmetic_Operators\bin\Debug\net8.0\05_Arithmetic_Operators.deps.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\05_Arithmetic_Operators\bin\Debug\net8.0\05_Arithmetic_Operators.runtimeconfig.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\05_Arithmetic_Operators\bin\Debug\net8.0\05_Arithmetic_Operators.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\05_Arithmetic_Operators\bin\Debug\net8.0\05_Arithmetic_Operators.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\05_Arithmetic_Operators\obj\Debug\net8.0\05_Arithmetic_Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\C_Sharp_Basics_and_OOP\05_Arithmetic_Operators\obj\Debug\net8.0\05_Arithmetic_Operators.AssemblyInfoInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\05_Arithmetic_Operators\obj\Debug\net8.0\05_Arithmetic_Operators.AssemblyInfo.cs
+D:\C Sharp\C_Sharp_Basics_and_OOP\05_Arithmetic_Operators\obj\Debug\net8.0\05_Arithmetic_Operators.csproj.CoreCompileInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\05_Arithmetic_Operators\obj\Debug\net8.0\05_Arithmetic_Operators.sourcelink.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\05_Arithmetic_Operators\obj\Debug\net8.0\05_Arithmetic_Operators.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\05_Arithmetic_Operators\obj\Debug\net8.0\refint\05_Arithmetic_Operators.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\05_Arithmetic_Operators\obj\Debug\net8.0\05_Arithmetic_Operators.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\05_Arithmetic_Operators\obj\Debug\net8.0\05_Arithmetic_Operators.genruntimeconfig.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\05_Arithmetic_Operators\obj\Debug\net8.0\ref\05_Arithmetic_Operators.dll
