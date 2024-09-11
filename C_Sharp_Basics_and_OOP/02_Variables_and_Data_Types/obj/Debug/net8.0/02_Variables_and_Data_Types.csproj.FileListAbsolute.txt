@@ -1,0 +1,15 @@
+D:\C Sharp\C_Sharp_Basics_and_OOP\02_Variables_and_Data_Types\bin\Debug\net8.0\02_Variables_and_Data_Types.exe
+D:\C Sharp\C_Sharp_Basics_and_OOP\02_Variables_and_Data_Types\bin\Debug\net8.0\02_Variables_and_Data_Types.deps.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\02_Variables_and_Data_Types\bin\Debug\net8.0\02_Variables_and_Data_Types.runtimeconfig.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\02_Variables_and_Data_Types\bin\Debug\net8.0\02_Variables_and_Data_Types.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\02_Variables_and_Data_Types\bin\Debug\net8.0\02_Variables_and_Data_Types.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\02_Variables_and_Data_Types\obj\Debug\net8.0\02_Variables_and_Data_Types.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\C_Sharp_Basics_and_OOP\02_Variables_and_Data_Types\obj\Debug\net8.0\02_Variables_and_Data_Types.AssemblyInfoInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\02_Variables_and_Data_Types\obj\Debug\net8.0\02_Variables_and_Data_Types.AssemblyInfo.cs
+D:\C Sharp\C_Sharp_Basics_and_OOP\02_Variables_and_Data_Types\obj\Debug\net8.0\02_Variables_and_Data_Types.csproj.CoreCompileInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\02_Variables_and_Data_Types\obj\Debug\net8.0\02_Variables_and_Data_Types.sourcelink.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\02_Variables_and_Data_Types\obj\Debug\net8.0\02_Variables_and_Data_Types.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\02_Variables_and_Data_Types\obj\Debug\net8.0\refint\02_Variables_and_Data_Types.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\02_Variables_and_Data_Types\obj\Debug\net8.0\02_Variables_and_Data_Types.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\02_Variables_and_Data_Types\obj\Debug\net8.0\02_Variables_and_Data_Types.genruntimeconfig.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\02_Variables_and_Data_Types\obj\Debug\net8.0\ref\02_Variables_and_Data_Types.dll
