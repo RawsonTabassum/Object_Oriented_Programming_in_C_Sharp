@@ -1,0 +1,15 @@
+D:\C Sharp\C_Sharp_Basics_and_OOP\01_Basic_Structure_and_Show_Output\bin\Debug\net8.0\01_Basic_Structure_and_Show_Output.exe
+D:\C Sharp\C_Sharp_Basics_and_OOP\01_Basic_Structure_and_Show_Output\bin\Debug\net8.0\01_Basic_Structure_and_Show_Output.deps.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\01_Basic_Structure_and_Show_Output\bin\Debug\net8.0\01_Basic_Structure_and_Show_Output.runtimeconfig.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\01_Basic_Structure_and_Show_Output\bin\Debug\net8.0\01_Basic_Structure_and_Show_Output.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\01_Basic_Structure_and_Show_Output\bin\Debug\net8.0\01_Basic_Structure_and_Show_Output.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\01_Basic_Structure_and_Show_Output\obj\Debug\net8.0\01_Basic_Structure_and_Show_Output.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\C_Sharp_Basics_and_OOP\01_Basic_Structure_and_Show_Output\obj\Debug\net8.0\01_Basic_Structure_and_Show_Output.AssemblyInfoInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\01_Basic_Structure_and_Show_Output\obj\Debug\net8.0\01_Basic_Structure_and_Show_Output.AssemblyInfo.cs
+D:\C Sharp\C_Sharp_Basics_and_OOP\01_Basic_Structure_and_Show_Output\obj\Debug\net8.0\01_Basic_Structure_and_Show_Output.csproj.CoreCompileInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\01_Basic_Structure_and_Show_Output\obj\Debug\net8.0\01_Basic_Structure_and_Show_Output.sourcelink.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\01_Basic_Structure_and_Show_Output\obj\Debug\net8.0\01_Basic_Structure_and_Show_Output.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\01_Basic_Structure_and_Show_Output\obj\Debug\net8.0\refint\01_Basic_Structure_and_Show_Output.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\01_Basic_Structure_and_Show_Output\obj\Debug\net8.0\01_Basic_Structure_and_Show_Output.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\01_Basic_Structure_and_Show_Output\obj\Debug\net8.0\01_Basic_Structure_and_Show_Output.genruntimeconfig.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\01_Basic_Structure_and_Show_Output\obj\Debug\net8.0\ref\01_Basic_Structure_and_Show_Output.dll
