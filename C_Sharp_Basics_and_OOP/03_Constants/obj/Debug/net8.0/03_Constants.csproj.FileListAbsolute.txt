@@ -1,0 +1,15 @@
+D:\C Sharp\C_Sharp_Basics_and_OOP\03_Constants\bin\Debug\net8.0\03_Constants.exe
+D:\C Sharp\C_Sharp_Basics_and_OOP\03_Constants\bin\Debug\net8.0\03_Constants.deps.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\03_Constants\bin\Debug\net8.0\03_Constants.runtimeconfig.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\03_Constants\bin\Debug\net8.0\03_Constants.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\03_Constants\bin\Debug\net8.0\03_Constants.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\03_Constants\obj\Debug\net8.0\03_Constants.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\C_Sharp_Basics_and_OOP\03_Constants\obj\Debug\net8.0\03_Constants.AssemblyInfoInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\03_Constants\obj\Debug\net8.0\03_Constants.AssemblyInfo.cs
+D:\C Sharp\C_Sharp_Basics_and_OOP\03_Constants\obj\Debug\net8.0\03_Constants.csproj.CoreCompileInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\03_Constants\obj\Debug\net8.0\03_Constants.sourcelink.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\03_Constants\obj\Debug\net8.0\03_Constants.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\03_Constants\obj\Debug\net8.0\refint\03_Constants.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\03_Constants\obj\Debug\net8.0\03_Constants.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\03_Constants\obj\Debug\net8.0\03_Constants.genruntimeconfig.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\03_Constants\obj\Debug\net8.0\ref\03_Constants.dll
