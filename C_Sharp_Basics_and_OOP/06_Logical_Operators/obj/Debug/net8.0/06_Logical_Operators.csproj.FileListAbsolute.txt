@@ -1,0 +1,15 @@
+D:\C Sharp\C_Sharp_Basics_and_OOP\06_Logical_Operators\bin\Debug\net8.0\06_Logical_Operators.exe
+D:\C Sharp\C_Sharp_Basics_and_OOP\06_Logical_Operators\bin\Debug\net8.0\06_Logical_Operators.deps.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\06_Logical_Operators\bin\Debug\net8.0\06_Logical_Operators.runtimeconfig.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\06_Logical_Operators\bin\Debug\net8.0\06_Logical_Operators.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\06_Logical_Operators\bin\Debug\net8.0\06_Logical_Operators.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\06_Logical_Operators\obj\Debug\net8.0\06_Logical_Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\C_Sharp_Basics_and_OOP\06_Logical_Operators\obj\Debug\net8.0\06_Logical_Operators.AssemblyInfoInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\06_Logical_Operators\obj\Debug\net8.0\06_Logical_Operators.AssemblyInfo.cs
+D:\C Sharp\C_Sharp_Basics_and_OOP\06_Logical_Operators\obj\Debug\net8.0\06_Logical_Operators.csproj.CoreCompileInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\06_Logical_Operators\obj\Debug\net8.0\06_Logical_Operators.sourcelink.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\06_Logical_Operators\obj\Debug\net8.0\06_Logical_Operators.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\06_Logical_Operators\obj\Debug\net8.0\refint\06_Logical_Operators.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\06_Logical_Operators\obj\Debug\net8.0\06_Logical_Operators.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\06_Logical_Operators\obj\Debug\net8.0\06_Logical_Operators.genruntimeconfig.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\06_Logical_Operators\obj\Debug\net8.0\ref\06_Logical_Operators.dll
