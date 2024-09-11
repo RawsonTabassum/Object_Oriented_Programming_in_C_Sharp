@@ -1,0 +1,15 @@
+D:\C Sharp\C_Sharp_Basics_and_OOP\08_Conditionals\bin\Debug\net8.0\08_Conditionals.exe
+D:\C Sharp\C_Sharp_Basics_and_OOP\08_Conditionals\bin\Debug\net8.0\08_Conditionals.deps.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\08_Conditionals\bin\Debug\net8.0\08_Conditionals.runtimeconfig.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\08_Conditionals\bin\Debug\net8.0\08_Conditionals.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\08_Conditionals\bin\Debug\net8.0\08_Conditionals.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\08_Conditionals\obj\Debug\net8.0\08_Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\C_Sharp_Basics_and_OOP\08_Conditionals\obj\Debug\net8.0\08_Conditionals.AssemblyInfoInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\08_Conditionals\obj\Debug\net8.0\08_Conditionals.AssemblyInfo.cs
+D:\C Sharp\C_Sharp_Basics_and_OOP\08_Conditionals\obj\Debug\net8.0\08_Conditionals.csproj.CoreCompileInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\08_Conditionals\obj\Debug\net8.0\08_Conditionals.sourcelink.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\08_Conditionals\obj\Debug\net8.0\08_Conditionals.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\08_Conditionals\obj\Debug\net8.0\refint\08_Conditionals.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\08_Conditionals\obj\Debug\net8.0\08_Conditionals.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\08_Conditionals\obj\Debug\net8.0\08_Conditionals.genruntimeconfig.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\08_Conditionals\obj\Debug\net8.0\ref\08_Conditionals.dll
