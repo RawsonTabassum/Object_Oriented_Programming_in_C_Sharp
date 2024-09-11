@@ -1,0 +1,15 @@
+D:\C Sharp\C_Sharp_Basics_and_OOP\07_String_Operations\bin\Debug\net8.0\07_String_Operations.exe
+D:\C Sharp\C_Sharp_Basics_and_OOP\07_String_Operations\bin\Debug\net8.0\07_String_Operations.deps.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\07_String_Operations\bin\Debug\net8.0\07_String_Operations.runtimeconfig.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\07_String_Operations\bin\Debug\net8.0\07_String_Operations.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\07_String_Operations\bin\Debug\net8.0\07_String_Operations.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\07_String_Operations\obj\Debug\net8.0\07_String_Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\C_Sharp_Basics_and_OOP\07_String_Operations\obj\Debug\net8.0\07_String_Operations.AssemblyInfoInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\07_String_Operations\obj\Debug\net8.0\07_String_Operations.AssemblyInfo.cs
+D:\C Sharp\C_Sharp_Basics_and_OOP\07_String_Operations\obj\Debug\net8.0\07_String_Operations.csproj.CoreCompileInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\07_String_Operations\obj\Debug\net8.0\07_String_Operations.sourcelink.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\07_String_Operations\obj\Debug\net8.0\07_String_Operations.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\07_String_Operations\obj\Debug\net8.0\refint\07_String_Operations.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\07_String_Operations\obj\Debug\net8.0\07_String_Operations.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\07_String_Operations\obj\Debug\net8.0\07_String_Operations.genruntimeconfig.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\07_String_Operations\obj\Debug\net8.0\ref\07_String_Operations.dll
