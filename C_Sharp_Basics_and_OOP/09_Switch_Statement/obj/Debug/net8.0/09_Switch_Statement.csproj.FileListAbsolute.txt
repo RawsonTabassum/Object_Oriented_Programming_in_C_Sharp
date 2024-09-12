@@ -1,0 +1,15 @@
+D:\C Sharp\C_Sharp_Basics_and_OOP\09_Switch_Statement\bin\Debug\net8.0\09_Switch_Statement.exe
+D:\C Sharp\C_Sharp_Basics_and_OOP\09_Switch_Statement\bin\Debug\net8.0\09_Switch_Statement.deps.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\09_Switch_Statement\bin\Debug\net8.0\09_Switch_Statement.runtimeconfig.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\09_Switch_Statement\bin\Debug\net8.0\09_Switch_Statement.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\09_Switch_Statement\bin\Debug\net8.0\09_Switch_Statement.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\09_Switch_Statement\obj\Debug\net8.0\09_Switch_Statement.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\C_Sharp_Basics_and_OOP\09_Switch_Statement\obj\Debug\net8.0\09_Switch_Statement.AssemblyInfoInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\09_Switch_Statement\obj\Debug\net8.0\09_Switch_Statement.AssemblyInfo.cs
+D:\C Sharp\C_Sharp_Basics_and_OOP\09_Switch_Statement\obj\Debug\net8.0\09_Switch_Statement.csproj.CoreCompileInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\09_Switch_Statement\obj\Debug\net8.0\09_Switch_Statement.sourcelink.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\09_Switch_Statement\obj\Debug\net8.0\09_Switch_Statement.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\09_Switch_Statement\obj\Debug\net8.0\refint\09_Switch_Statement.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\09_Switch_Statement\obj\Debug\net8.0\09_Switch_Statement.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\09_Switch_Statement\obj\Debug\net8.0\09_Switch_Statement.genruntimeconfig.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\09_Switch_Statement\obj\Debug\net8.0\ref\09_Switch_Statement.dll
