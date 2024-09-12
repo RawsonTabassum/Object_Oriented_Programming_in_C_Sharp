@@ -1,0 +1,15 @@
+D:\C Sharp\C_Sharp_Basics_and_OOP\10_Loops\bin\Debug\net8.0\10_Loops.exe
+D:\C Sharp\C_Sharp_Basics_and_OOP\10_Loops\bin\Debug\net8.0\10_Loops.deps.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\10_Loops\bin\Debug\net8.0\10_Loops.runtimeconfig.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\10_Loops\bin\Debug\net8.0\10_Loops.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\10_Loops\bin\Debug\net8.0\10_Loops.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\10_Loops\obj\Debug\net8.0\10_Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\C_Sharp_Basics_and_OOP\10_Loops\obj\Debug\net8.0\10_Loops.AssemblyInfoInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\10_Loops\obj\Debug\net8.0\10_Loops.AssemblyInfo.cs
+D:\C Sharp\C_Sharp_Basics_and_OOP\10_Loops\obj\Debug\net8.0\10_Loops.csproj.CoreCompileInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\10_Loops\obj\Debug\net8.0\10_Loops.sourcelink.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\10_Loops\obj\Debug\net8.0\10_Loops.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\10_Loops\obj\Debug\net8.0\refint\10_Loops.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\10_Loops\obj\Debug\net8.0\10_Loops.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\10_Loops\obj\Debug\net8.0\10_Loops.genruntimeconfig.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\10_Loops\obj\Debug\net8.0\ref\10_Loops.dll
