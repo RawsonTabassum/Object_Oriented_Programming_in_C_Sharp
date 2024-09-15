@@ -1,0 +1,15 @@
+D:\C Sharp\C_Sharp_Basics_and_OOP\11_Arrays\bin\Debug\net8.0\11_Arrays.exe
+D:\C Sharp\C_Sharp_Basics_and_OOP\11_Arrays\bin\Debug\net8.0\11_Arrays.deps.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\11_Arrays\bin\Debug\net8.0\11_Arrays.runtimeconfig.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\11_Arrays\bin\Debug\net8.0\11_Arrays.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\11_Arrays\bin\Debug\net8.0\11_Arrays.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\11_Arrays\obj\Debug\net8.0\11_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\C_Sharp_Basics_and_OOP\11_Arrays\obj\Debug\net8.0\11_Arrays.AssemblyInfoInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\11_Arrays\obj\Debug\net8.0\11_Arrays.AssemblyInfo.cs
+D:\C Sharp\C_Sharp_Basics_and_OOP\11_Arrays\obj\Debug\net8.0\11_Arrays.csproj.CoreCompileInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\11_Arrays\obj\Debug\net8.0\11_Arrays.sourcelink.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\11_Arrays\obj\Debug\net8.0\11_Arrays.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\11_Arrays\obj\Debug\net8.0\refint\11_Arrays.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\11_Arrays\obj\Debug\net8.0\11_Arrays.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\11_Arrays\obj\Debug\net8.0\11_Arrays.genruntimeconfig.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\11_Arrays\obj\Debug\net8.0\ref\11_Arrays.dll
