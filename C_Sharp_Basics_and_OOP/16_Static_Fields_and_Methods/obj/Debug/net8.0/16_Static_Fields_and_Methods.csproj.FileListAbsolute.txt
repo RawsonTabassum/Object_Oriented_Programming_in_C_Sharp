@@ -1,0 +1,15 @@
+D:\C Sharp\C_Sharp_Basics_and_OOP\16_Static_Fields_and_Methods\obj\Debug\net8.0\16_Static_Fields_and_Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\C_Sharp_Basics_and_OOP\16_Static_Fields_and_Methods\obj\Debug\net8.0\16_Static_Fields_and_Methods.AssemblyInfoInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\16_Static_Fields_and_Methods\obj\Debug\net8.0\16_Static_Fields_and_Methods.AssemblyInfo.cs
+D:\C Sharp\C_Sharp_Basics_and_OOP\16_Static_Fields_and_Methods\obj\Debug\net8.0\16_Static_Fields_and_Methods.csproj.CoreCompileInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\16_Static_Fields_and_Methods\obj\Debug\net8.0\16_Static_Fields_and_Methods.sourcelink.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\16_Static_Fields_and_Methods\bin\Debug\net8.0\16_Static_Fields_and_Methods.exe
+D:\C Sharp\C_Sharp_Basics_and_OOP\16_Static_Fields_and_Methods\bin\Debug\net8.0\16_Static_Fields_and_Methods.deps.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\16_Static_Fields_and_Methods\bin\Debug\net8.0\16_Static_Fields_and_Methods.runtimeconfig.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\16_Static_Fields_and_Methods\bin\Debug\net8.0\16_Static_Fields_and_Methods.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\16_Static_Fields_and_Methods\bin\Debug\net8.0\16_Static_Fields_and_Methods.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\16_Static_Fields_and_Methods\obj\Debug\net8.0\16_Static_Fields_and_Methods.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\16_Static_Fields_and_Methods\obj\Debug\net8.0\refint\16_Static_Fields_and_Methods.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\16_Static_Fields_and_Methods\obj\Debug\net8.0\16_Static_Fields_and_Methods.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\16_Static_Fields_and_Methods\obj\Debug\net8.0\16_Static_Fields_and_Methods.genruntimeconfig.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\16_Static_Fields_and_Methods\obj\Debug\net8.0\ref\16_Static_Fields_and_Methods.dll
