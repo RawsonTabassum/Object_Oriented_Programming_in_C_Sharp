@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "14_Constructors_and_Constrcutor_Overloading/1.0.0": {
+        "runtime": {
+          "14_Constructors_and_Constrcutor_Overloading.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "14_Constructors_and_Constrcutor_Overloading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
