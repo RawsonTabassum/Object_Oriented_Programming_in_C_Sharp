@@ -1,0 +1,15 @@
+D:\C Sharp\C_Sharp_Basics_and_OOP\15_Get_Set_Methods\bin\Debug\net8.0\15_Get_Set_Methods.exe
+D:\C Sharp\C_Sharp_Basics_and_OOP\15_Get_Set_Methods\bin\Debug\net8.0\15_Get_Set_Methods.deps.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\15_Get_Set_Methods\bin\Debug\net8.0\15_Get_Set_Methods.runtimeconfig.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\15_Get_Set_Methods\bin\Debug\net8.0\15_Get_Set_Methods.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\15_Get_Set_Methods\bin\Debug\net8.0\15_Get_Set_Methods.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\15_Get_Set_Methods\obj\Debug\net8.0\15_Get_Set_Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\C_Sharp_Basics_and_OOP\15_Get_Set_Methods\obj\Debug\net8.0\15_Get_Set_Methods.AssemblyInfoInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\15_Get_Set_Methods\obj\Debug\net8.0\15_Get_Set_Methods.AssemblyInfo.cs
+D:\C Sharp\C_Sharp_Basics_and_OOP\15_Get_Set_Methods\obj\Debug\net8.0\15_Get_Set_Methods.csproj.CoreCompileInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\15_Get_Set_Methods\obj\Debug\net8.0\15_Get_Set_Methods.sourcelink.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\15_Get_Set_Methods\obj\Debug\net8.0\15_Get_Set_Methods.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\15_Get_Set_Methods\obj\Debug\net8.0\refint\15_Get_Set_Methods.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\15_Get_Set_Methods\obj\Debug\net8.0\15_Get_Set_Methods.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\15_Get_Set_Methods\obj\Debug\net8.0\15_Get_Set_Methods.genruntimeconfig.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\15_Get_Set_Methods\obj\Debug\net8.0\ref\15_Get_Set_Methods.dll
