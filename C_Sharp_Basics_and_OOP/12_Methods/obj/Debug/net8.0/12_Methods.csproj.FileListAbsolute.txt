@@ -1,0 +1,15 @@
+D:\C Sharp\C_Sharp_Basics_and_OOP\12_Methods\bin\Debug\net8.0\12_Methods.exe
+D:\C Sharp\C_Sharp_Basics_and_OOP\12_Methods\bin\Debug\net8.0\12_Methods.deps.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\12_Methods\bin\Debug\net8.0\12_Methods.runtimeconfig.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\12_Methods\bin\Debug\net8.0\12_Methods.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\12_Methods\bin\Debug\net8.0\12_Methods.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\12_Methods\obj\Debug\net8.0\12_Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\C_Sharp_Basics_and_OOP\12_Methods\obj\Debug\net8.0\12_Methods.AssemblyInfoInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\12_Methods\obj\Debug\net8.0\12_Methods.AssemblyInfo.cs
+D:\C Sharp\C_Sharp_Basics_and_OOP\12_Methods\obj\Debug\net8.0\12_Methods.csproj.CoreCompileInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\12_Methods\obj\Debug\net8.0\12_Methods.sourcelink.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\12_Methods\obj\Debug\net8.0\12_Methods.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\12_Methods\obj\Debug\net8.0\refint\12_Methods.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\12_Methods\obj\Debug\net8.0\12_Methods.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\12_Methods\obj\Debug\net8.0\12_Methods.genruntimeconfig.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\12_Methods\obj\Debug\net8.0\ref\12_Methods.dll
