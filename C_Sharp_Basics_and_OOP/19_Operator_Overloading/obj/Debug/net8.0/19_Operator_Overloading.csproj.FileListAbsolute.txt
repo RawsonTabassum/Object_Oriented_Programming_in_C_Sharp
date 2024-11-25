@@ -1,0 +1,15 @@
+D:\C Sharp\C_Sharp_Basics_and_OOP\19_Operator_Overloading\bin\Debug\net8.0\19_Operator_Overloading.exe
+D:\C Sharp\C_Sharp_Basics_and_OOP\19_Operator_Overloading\bin\Debug\net8.0\19_Operator_Overloading.deps.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\19_Operator_Overloading\bin\Debug\net8.0\19_Operator_Overloading.runtimeconfig.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\19_Operator_Overloading\bin\Debug\net8.0\19_Operator_Overloading.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\19_Operator_Overloading\bin\Debug\net8.0\19_Operator_Overloading.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\19_Operator_Overloading\obj\Debug\net8.0\19_Operator_Overloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\C_Sharp_Basics_and_OOP\19_Operator_Overloading\obj\Debug\net8.0\19_Operator_Overloading.AssemblyInfoInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\19_Operator_Overloading\obj\Debug\net8.0\19_Operator_Overloading.AssemblyInfo.cs
+D:\C Sharp\C_Sharp_Basics_and_OOP\19_Operator_Overloading\obj\Debug\net8.0\19_Operator_Overloading.csproj.CoreCompileInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\19_Operator_Overloading\obj\Debug\net8.0\19_Operator_Overloading.sourcelink.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\19_Operator_Overloading\obj\Debug\net8.0\19_Operator_Overloading.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\19_Operator_Overloading\obj\Debug\net8.0\refint\19_Operator_Overloading.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\19_Operator_Overloading\obj\Debug\net8.0\19_Operator_Overloading.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\19_Operator_Overloading\obj\Debug\net8.0\19_Operator_Overloading.genruntimeconfig.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\19_Operator_Overloading\obj\Debug\net8.0\ref\19_Operator_Overloading.dll
