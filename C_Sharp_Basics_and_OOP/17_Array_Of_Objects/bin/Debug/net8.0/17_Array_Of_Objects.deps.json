@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "17_Array_Of_Objects/1.0.0": {
+        "runtime": {
+          "17_Array_Of_Objects.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "17_Array_Of_Objects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

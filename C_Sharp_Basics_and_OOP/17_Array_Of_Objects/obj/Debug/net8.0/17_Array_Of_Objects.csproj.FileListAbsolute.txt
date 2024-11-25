@@ -1,0 +1,15 @@
+D:\C Sharp\C_Sharp_Basics_and_OOP\17_Array_Of_Objects\bin\Debug\net8.0\17_Array_Of_Objects.exe
+D:\C Sharp\C_Sharp_Basics_and_OOP\17_Array_Of_Objects\bin\Debug\net8.0\17_Array_Of_Objects.deps.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\17_Array_Of_Objects\bin\Debug\net8.0\17_Array_Of_Objects.runtimeconfig.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\17_Array_Of_Objects\bin\Debug\net8.0\17_Array_Of_Objects.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\17_Array_Of_Objects\bin\Debug\net8.0\17_Array_Of_Objects.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\17_Array_Of_Objects\obj\Debug\net8.0\17_Array_Of_Objects.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\C_Sharp_Basics_and_OOP\17_Array_Of_Objects\obj\Debug\net8.0\17_Array_Of_Objects.AssemblyInfoInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\17_Array_Of_Objects\obj\Debug\net8.0\17_Array_Of_Objects.AssemblyInfo.cs
+D:\C Sharp\C_Sharp_Basics_and_OOP\17_Array_Of_Objects\obj\Debug\net8.0\17_Array_Of_Objects.csproj.CoreCompileInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\17_Array_Of_Objects\obj\Debug\net8.0\17_Array_Of_Objects.sourcelink.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\17_Array_Of_Objects\obj\Debug\net8.0\17_Array_Of_Objects.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\17_Array_Of_Objects\obj\Debug\net8.0\refint\17_Array_Of_Objects.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\17_Array_Of_Objects\obj\Debug\net8.0\17_Array_Of_Objects.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\17_Array_Of_Objects\obj\Debug\net8.0\17_Array_Of_Objects.genruntimeconfig.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\17_Array_Of_Objects\obj\Debug\net8.0\ref\17_Array_Of_Objects.dll
