@@ -1,0 +1,15 @@
+D:\C Sharp\C_Sharp_Basics_and_OOP\18_Array_as_Class_Fields\obj\Debug\net8.0\18_Array_as_Class_Fields.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\C_Sharp_Basics_and_OOP\18_Array_as_Class_Fields\obj\Debug\net8.0\18_Array_as_Class_Fields.AssemblyInfoInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\18_Array_as_Class_Fields\obj\Debug\net8.0\18_Array_as_Class_Fields.AssemblyInfo.cs
+D:\C Sharp\C_Sharp_Basics_and_OOP\18_Array_as_Class_Fields\obj\Debug\net8.0\18_Array_as_Class_Fields.csproj.CoreCompileInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\18_Array_as_Class_Fields\obj\Debug\net8.0\18_Array_as_Class_Fields.sourcelink.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\18_Array_as_Class_Fields\bin\Debug\net8.0\18_Array_as_Class_Fields.exe
+D:\C Sharp\C_Sharp_Basics_and_OOP\18_Array_as_Class_Fields\bin\Debug\net8.0\18_Array_as_Class_Fields.deps.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\18_Array_as_Class_Fields\bin\Debug\net8.0\18_Array_as_Class_Fields.runtimeconfig.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\18_Array_as_Class_Fields\bin\Debug\net8.0\18_Array_as_Class_Fields.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\18_Array_as_Class_Fields\bin\Debug\net8.0\18_Array_as_Class_Fields.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\18_Array_as_Class_Fields\obj\Debug\net8.0\18_Array_as_Class_Fields.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\18_Array_as_Class_Fields\obj\Debug\net8.0\refint\18_Array_as_Class_Fields.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\18_Array_as_Class_Fields\obj\Debug\net8.0\18_Array_as_Class_Fields.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\18_Array_as_Class_Fields\obj\Debug\net8.0\18_Array_as_Class_Fields.genruntimeconfig.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\18_Array_as_Class_Fields\obj\Debug\net8.0\ref\18_Array_as_Class_Fields.dll
