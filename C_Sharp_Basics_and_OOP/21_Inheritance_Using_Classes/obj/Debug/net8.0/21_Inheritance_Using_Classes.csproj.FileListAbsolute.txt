@@ -1,0 +1,15 @@
+D:\C Sharp\C_Sharp_Basics_and_OOP\21_Inheritance_Using_Classes\bin\Debug\net8.0\21_Inheritance_Using_Classes.exe
+D:\C Sharp\C_Sharp_Basics_and_OOP\21_Inheritance_Using_Classes\bin\Debug\net8.0\21_Inheritance_Using_Classes.deps.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\21_Inheritance_Using_Classes\bin\Debug\net8.0\21_Inheritance_Using_Classes.runtimeconfig.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\21_Inheritance_Using_Classes\bin\Debug\net8.0\21_Inheritance_Using_Classes.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\21_Inheritance_Using_Classes\bin\Debug\net8.0\21_Inheritance_Using_Classes.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\21_Inheritance_Using_Classes\obj\Debug\net8.0\21_Inheritance_Using_Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\C_Sharp_Basics_and_OOP\21_Inheritance_Using_Classes\obj\Debug\net8.0\21_Inheritance_Using_Classes.AssemblyInfoInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\21_Inheritance_Using_Classes\obj\Debug\net8.0\21_Inheritance_Using_Classes.AssemblyInfo.cs
+D:\C Sharp\C_Sharp_Basics_and_OOP\21_Inheritance_Using_Classes\obj\Debug\net8.0\21_Inheritance_Using_Classes.csproj.CoreCompileInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\21_Inheritance_Using_Classes\obj\Debug\net8.0\21_Inheritance_Using_Classes.sourcelink.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\21_Inheritance_Using_Classes\obj\Debug\net8.0\21_Inheritance_Using_Classes.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\21_Inheritance_Using_Classes\obj\Debug\net8.0\refint\21_Inheritance_Using_Classes.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\21_Inheritance_Using_Classes\obj\Debug\net8.0\21_Inheritance_Using_Classes.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\21_Inheritance_Using_Classes\obj\Debug\net8.0\21_Inheritance_Using_Classes.genruntimeconfig.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\21_Inheritance_Using_Classes\obj\Debug\net8.0\ref\21_Inheritance_Using_Classes.dll
