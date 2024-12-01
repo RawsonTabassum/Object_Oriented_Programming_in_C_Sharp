@@ -1,0 +1,15 @@
+D:\C Sharp\C_Sharp_Basics_and_OOP\22_Inheritance_Using_Interfaces\bin\Debug\net8.0\22_Inheritance_Using_Interfaces.exe
+D:\C Sharp\C_Sharp_Basics_and_OOP\22_Inheritance_Using_Interfaces\bin\Debug\net8.0\22_Inheritance_Using_Interfaces.deps.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\22_Inheritance_Using_Interfaces\bin\Debug\net8.0\22_Inheritance_Using_Interfaces.runtimeconfig.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\22_Inheritance_Using_Interfaces\bin\Debug\net8.0\22_Inheritance_Using_Interfaces.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\22_Inheritance_Using_Interfaces\bin\Debug\net8.0\22_Inheritance_Using_Interfaces.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\22_Inheritance_Using_Interfaces\obj\Debug\net8.0\22_Inheritance_Using_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\C_Sharp_Basics_and_OOP\22_Inheritance_Using_Interfaces\obj\Debug\net8.0\22_Inheritance_Using_Interfaces.AssemblyInfoInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\22_Inheritance_Using_Interfaces\obj\Debug\net8.0\22_Inheritance_Using_Interfaces.AssemblyInfo.cs
+D:\C Sharp\C_Sharp_Basics_and_OOP\22_Inheritance_Using_Interfaces\obj\Debug\net8.0\22_Inheritance_Using_Interfaces.csproj.CoreCompileInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\22_Inheritance_Using_Interfaces\obj\Debug\net8.0\22_Inheritance_Using_Interfaces.sourcelink.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\22_Inheritance_Using_Interfaces\obj\Debug\net8.0\22_Inheritance_Using_Interfaces.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\22_Inheritance_Using_Interfaces\obj\Debug\net8.0\refint\22_Inheritance_Using_Interfaces.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\22_Inheritance_Using_Interfaces\obj\Debug\net8.0\22_Inheritance_Using_Interfaces.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\22_Inheritance_Using_Interfaces\obj\Debug\net8.0\22_Inheritance_Using_Interfaces.genruntimeconfig.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\22_Inheritance_Using_Interfaces\obj\Debug\net8.0\ref\22_Inheritance_Using_Interfaces.dll

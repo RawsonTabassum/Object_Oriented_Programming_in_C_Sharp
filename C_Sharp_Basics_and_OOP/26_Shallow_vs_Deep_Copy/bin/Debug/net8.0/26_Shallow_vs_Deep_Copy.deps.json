@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "26_Shallow_vs_Deep_Copy/1.0.0": {
+        "runtime": {
+          "26_Shallow_vs_Deep_Copy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "26_Shallow_vs_Deep_Copy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

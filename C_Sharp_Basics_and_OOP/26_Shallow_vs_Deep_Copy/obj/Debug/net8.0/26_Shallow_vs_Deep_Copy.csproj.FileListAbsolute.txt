@@ -1,0 +1,15 @@
+D:\C Sharp\C_Sharp_Basics_and_OOP\26_Shallow_vs_Deep_Copy\bin\Debug\net8.0\26_Shallow_vs_Deep_Copy.exe
+D:\C Sharp\C_Sharp_Basics_and_OOP\26_Shallow_vs_Deep_Copy\bin\Debug\net8.0\26_Shallow_vs_Deep_Copy.deps.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\26_Shallow_vs_Deep_Copy\bin\Debug\net8.0\26_Shallow_vs_Deep_Copy.runtimeconfig.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\26_Shallow_vs_Deep_Copy\bin\Debug\net8.0\26_Shallow_vs_Deep_Copy.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\26_Shallow_vs_Deep_Copy\bin\Debug\net8.0\26_Shallow_vs_Deep_Copy.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\26_Shallow_vs_Deep_Copy\obj\Debug\net8.0\26_Shallow_vs_Deep_Copy.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\C_Sharp_Basics_and_OOP\26_Shallow_vs_Deep_Copy\obj\Debug\net8.0\26_Shallow_vs_Deep_Copy.AssemblyInfoInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\26_Shallow_vs_Deep_Copy\obj\Debug\net8.0\26_Shallow_vs_Deep_Copy.AssemblyInfo.cs
+D:\C Sharp\C_Sharp_Basics_and_OOP\26_Shallow_vs_Deep_Copy\obj\Debug\net8.0\26_Shallow_vs_Deep_Copy.csproj.CoreCompileInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\26_Shallow_vs_Deep_Copy\obj\Debug\net8.0\26_Shallow_vs_Deep_Copy.sourcelink.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\26_Shallow_vs_Deep_Copy\obj\Debug\net8.0\26_Shallow_vs_Deep_Copy.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\26_Shallow_vs_Deep_Copy\obj\Debug\net8.0\refint\26_Shallow_vs_Deep_Copy.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\26_Shallow_vs_Deep_Copy\obj\Debug\net8.0\26_Shallow_vs_Deep_Copy.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\26_Shallow_vs_Deep_Copy\obj\Debug\net8.0\26_Shallow_vs_Deep_Copy.genruntimeconfig.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\26_Shallow_vs_Deep_Copy\obj\Debug\net8.0\ref\26_Shallow_vs_Deep_Copy.dll
