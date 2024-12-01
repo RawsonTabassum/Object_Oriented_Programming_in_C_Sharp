@@ -1,0 +1,15 @@
+D:\C Sharp\C_Sharp_Basics_and_OOP\29_Exception_Handling\bin\Debug\net8.0\29_Exception_Handling.exe
+D:\C Sharp\C_Sharp_Basics_and_OOP\29_Exception_Handling\bin\Debug\net8.0\29_Exception_Handling.deps.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\29_Exception_Handling\bin\Debug\net8.0\29_Exception_Handling.runtimeconfig.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\29_Exception_Handling\bin\Debug\net8.0\29_Exception_Handling.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\29_Exception_Handling\bin\Debug\net8.0\29_Exception_Handling.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\29_Exception_Handling\obj\Debug\net8.0\29_Exception_Handling.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\C_Sharp_Basics_and_OOP\29_Exception_Handling\obj\Debug\net8.0\29_Exception_Handling.AssemblyInfoInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\29_Exception_Handling\obj\Debug\net8.0\29_Exception_Handling.AssemblyInfo.cs
+D:\C Sharp\C_Sharp_Basics_and_OOP\29_Exception_Handling\obj\Debug\net8.0\29_Exception_Handling.csproj.CoreCompileInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\29_Exception_Handling\obj\Debug\net8.0\29_Exception_Handling.sourcelink.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\29_Exception_Handling\obj\Debug\net8.0\29_Exception_Handling.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\29_Exception_Handling\obj\Debug\net8.0\refint\29_Exception_Handling.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\29_Exception_Handling\obj\Debug\net8.0\29_Exception_Handling.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\29_Exception_Handling\obj\Debug\net8.0\29_Exception_Handling.genruntimeconfig.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\29_Exception_Handling\obj\Debug\net8.0\ref\29_Exception_Handling.dll
