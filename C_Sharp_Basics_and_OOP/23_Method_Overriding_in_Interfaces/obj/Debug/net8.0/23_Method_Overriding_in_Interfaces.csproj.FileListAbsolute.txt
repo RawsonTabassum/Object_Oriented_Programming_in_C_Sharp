@@ -1,0 +1,15 @@
+D:\C Sharp\C_Sharp_Basics_and_OOP\23_Method_Overriding_in_Interfaces\bin\Debug\net8.0\23_Method_Overriding_in_Interfaces.exe
+D:\C Sharp\C_Sharp_Basics_and_OOP\23_Method_Overriding_in_Interfaces\bin\Debug\net8.0\23_Method_Overriding_in_Interfaces.deps.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\23_Method_Overriding_in_Interfaces\bin\Debug\net8.0\23_Method_Overriding_in_Interfaces.runtimeconfig.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\23_Method_Overriding_in_Interfaces\bin\Debug\net8.0\23_Method_Overriding_in_Interfaces.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\23_Method_Overriding_in_Interfaces\bin\Debug\net8.0\23_Method_Overriding_in_Interfaces.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\23_Method_Overriding_in_Interfaces\obj\Debug\net8.0\23_Method_Overriding_in_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\C_Sharp_Basics_and_OOP\23_Method_Overriding_in_Interfaces\obj\Debug\net8.0\23_Method_Overriding_in_Interfaces.AssemblyInfoInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\23_Method_Overriding_in_Interfaces\obj\Debug\net8.0\23_Method_Overriding_in_Interfaces.AssemblyInfo.cs
+D:\C Sharp\C_Sharp_Basics_and_OOP\23_Method_Overriding_in_Interfaces\obj\Debug\net8.0\23_Method_Overriding_in_Interfaces.csproj.CoreCompileInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\23_Method_Overriding_in_Interfaces\obj\Debug\net8.0\23_Method_Overriding_in_Interfaces.sourcelink.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\23_Method_Overriding_in_Interfaces\obj\Debug\net8.0\23_Method_Overriding_in_Interfaces.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\23_Method_Overriding_in_Interfaces\obj\Debug\net8.0\refint\23_Method_Overriding_in_Interfaces.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\23_Method_Overriding_in_Interfaces\obj\Debug\net8.0\23_Method_Overriding_in_Interfaces.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\23_Method_Overriding_in_Interfaces\obj\Debug\net8.0\23_Method_Overriding_in_Interfaces.genruntimeconfig.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\23_Method_Overriding_in_Interfaces\obj\Debug\net8.0\ref\23_Method_Overriding_in_Interfaces.dll

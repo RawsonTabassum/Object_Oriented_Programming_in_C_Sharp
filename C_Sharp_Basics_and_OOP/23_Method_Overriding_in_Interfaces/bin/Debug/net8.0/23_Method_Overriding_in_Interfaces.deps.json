@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "23_Method_Overriding_in_Interfaces/1.0.0": {
+        "runtime": {
+          "23_Method_Overriding_in_Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "23_Method_Overriding_in_Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
