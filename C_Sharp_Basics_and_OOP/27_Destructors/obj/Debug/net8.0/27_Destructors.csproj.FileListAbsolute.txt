@@ -1,0 +1,15 @@
+D:\C Sharp\C_Sharp_Basics_and_OOP\27_Destructors\bin\Debug\net8.0\27_Destructors.exe
+D:\C Sharp\C_Sharp_Basics_and_OOP\27_Destructors\bin\Debug\net8.0\27_Destructors.deps.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\27_Destructors\bin\Debug\net8.0\27_Destructors.runtimeconfig.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\27_Destructors\bin\Debug\net8.0\27_Destructors.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\27_Destructors\bin\Debug\net8.0\27_Destructors.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\27_Destructors\obj\Debug\net8.0\27_Destructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\C_Sharp_Basics_and_OOP\27_Destructors\obj\Debug\net8.0\27_Destructors.AssemblyInfoInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\27_Destructors\obj\Debug\net8.0\27_Destructors.AssemblyInfo.cs
+D:\C Sharp\C_Sharp_Basics_and_OOP\27_Destructors\obj\Debug\net8.0\27_Destructors.csproj.CoreCompileInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\27_Destructors\obj\Debug\net8.0\27_Destructors.sourcelink.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\27_Destructors\obj\Debug\net8.0\27_Destructors.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\27_Destructors\obj\Debug\net8.0\refint\27_Destructors.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\27_Destructors\obj\Debug\net8.0\27_Destructors.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\27_Destructors\obj\Debug\net8.0\27_Destructors.genruntimeconfig.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\27_Destructors\obj\Debug\net8.0\ref\27_Destructors.dll
