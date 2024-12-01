@@ -1,0 +1,15 @@
+D:\C Sharp\C_Sharp_Basics_and_OOP\25_Abstract_Classes\bin\Debug\net8.0\25_Abstract_Classes.exe
+D:\C Sharp\C_Sharp_Basics_and_OOP\25_Abstract_Classes\bin\Debug\net8.0\25_Abstract_Classes.deps.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\25_Abstract_Classes\bin\Debug\net8.0\25_Abstract_Classes.runtimeconfig.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\25_Abstract_Classes\bin\Debug\net8.0\25_Abstract_Classes.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\25_Abstract_Classes\bin\Debug\net8.0\25_Abstract_Classes.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\25_Abstract_Classes\obj\Debug\net8.0\25_Abstract_Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\C_Sharp_Basics_and_OOP\25_Abstract_Classes\obj\Debug\net8.0\25_Abstract_Classes.AssemblyInfoInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\25_Abstract_Classes\obj\Debug\net8.0\25_Abstract_Classes.AssemblyInfo.cs
+D:\C Sharp\C_Sharp_Basics_and_OOP\25_Abstract_Classes\obj\Debug\net8.0\25_Abstract_Classes.csproj.CoreCompileInputs.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\25_Abstract_Classes\obj\Debug\net8.0\25_Abstract_Classes.sourcelink.json
+D:\C Sharp\C_Sharp_Basics_and_OOP\25_Abstract_Classes\obj\Debug\net8.0\25_Abstract_Classes.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\25_Abstract_Classes\obj\Debug\net8.0\refint\25_Abstract_Classes.dll
+D:\C Sharp\C_Sharp_Basics_and_OOP\25_Abstract_Classes\obj\Debug\net8.0\25_Abstract_Classes.pdb
+D:\C Sharp\C_Sharp_Basics_and_OOP\25_Abstract_Classes\obj\Debug\net8.0\25_Abstract_Classes.genruntimeconfig.cache
+D:\C Sharp\C_Sharp_Basics_and_OOP\25_Abstract_Classes\obj\Debug\net8.0\ref\25_Abstract_Classes.dll
