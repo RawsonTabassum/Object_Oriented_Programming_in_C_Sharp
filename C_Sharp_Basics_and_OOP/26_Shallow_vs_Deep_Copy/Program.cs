@@ -1,4 +1,9 @@
-﻿using System;
+﻿// you may not see the output from the destructor because C# destructors are non-deterministic
+// It is unknown when the garbage collector will call the destructor function and
+// most of the times our programs end before the garbage collector makes a destructor call.
+
+
+using System;
 namespace Copies{
     class App{
         public static void Main(){
@@ -17,11 +22,6 @@ namespace Copies{
             dc2.y = 60.7;
             Console.WriteLine($"Value of x: {dc1.x} and {dc2.x}");
             Console.WriteLine($"Value of y: {dc1.y} and {dc2.y}");
-
-            int a = 0;
-            for(int i=0; i<=1000; i++){
-                a++;
-            }
         }
     }
 
